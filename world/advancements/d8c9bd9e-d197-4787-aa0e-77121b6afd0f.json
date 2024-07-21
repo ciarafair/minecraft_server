@@ -1,0 +1,27 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-21 07:40:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-07-21 07:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-07-21 07:40:16 +0000"
+    },
+    "done": false
+  },
+  "forgero:forgero/root": {
+    "criteria": {
+      "default": "2024-07-21 07:41:07 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}
