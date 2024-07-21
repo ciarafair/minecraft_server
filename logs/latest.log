@@ -1,6 +1,6 @@
-[01:05:27] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.15.11
-[01:05:27] [ForkJoinPool-1-worker-4/WARN]: Mod inventoryhud uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:05:27] [main/INFO]: Loading 61 mods:
+[01:51:19] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.15.11
+[01:51:19] [ForkJoinPool-1-worker-4/WARN]: Mod inventoryhud uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:51:19] [main/INFO]: Loading 61 mods:
 	- cicada 0.8.0+1.21-and-above
 	- fabric-api 0.100.4+1.21
 	   |-- fabric-api-base 0.4.42+6573ed8cd1
@@ -74,39 +74,38 @@
 	   |-- cardinal-components-base 6.1.0
 	   \-- cardinal-components-entity 6.1.0
 	- skinlayers3d 1.6.6
-[01:05:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/server/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[01:05:27] [main/INFO]: Compatibility level set to JAVA_17
-[01:05:28] [main/INFO]: Loaded configuration file for Lithium: 138 options available, 0 override(s) found
-[01:05:28] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[01:05:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:05:33] [main/INFO]: Found new data pack fabric, loading it automatically
-[01:05:33] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[01:05:34] [main/INFO]: Loaded 1290 recipes
-[01:05:34] [main/INFO]: Loaded 1399 advancements
-[01:05:34] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 832.2 μs
-[01:05:34] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:05:34] [Server thread/INFO]: Loading properties
-[01:05:34] [Server thread/INFO]: Default game type: SURVIVAL
-[01:05:34] [Server thread/INFO]: Generating keypair
-[01:05:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:05:34] [Server thread/INFO]: Using epoll channel type
-[01:05:34] [Server thread/INFO]: Preparing level "world"
-[01:05:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:05:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:05:37] [Server thread/INFO]: Time elapsed: 381 ms
-[01:05:37] [Server thread/INFO]: Done (2.271s)! For help, type "help"
-[01:05:37] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[01:05:37] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[01:05:37] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[01:05:37] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[01:05:57] [User Authenticator #1/INFO]: UUID of player aspen_syrup is d8c9bd9e-d197-4787-aa0e-77121b6afd0f
-[01:05:58] [Server thread/INFO]: aspen_syrup[/192.168.25.199:49790] logged in with entity id 39 at (-35.5, 72.0, -86.5)
-[01:05:58] [Server thread/INFO]: aspen_syrup joined the game
-[01:05:58] [Server thread/INFO]: [showmeyourskin] Client of aspen_syrup accepted server config.
-[01:06:10] [Server thread/INFO]: aspen_syrup lost connection: Disconnected
-[01:06:10] [Server thread/INFO]: aspen_syrup left the game
-[01:08:20] [User Authenticator #2/INFO]: UUID of player aspen_syrup is d8c9bd9e-d197-4787-aa0e-77121b6afd0f
-[01:08:20] [Server thread/INFO]: aspen_syrup[/192.168.25.199:50096] logged in with entity id 289 at (-35.5, 72.0, -86.5)
-[01:08:20] [Server thread/INFO]: aspen_syrup joined the game
-[01:08:24] [Server thread/INFO]: aspen_syrup lost connection: Disconnected
-[01:08:24] [Server thread/INFO]: aspen_syrup left the game
+[01:51:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/server/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[01:51:19] [main/INFO]: Compatibility level set to JAVA_17
+[01:51:19] [main/INFO]: Loaded configuration file for Lithium: 138 options available, 0 override(s) found
+[01:51:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[01:51:25] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:51:26] [main/INFO]: Loaded 1290 recipes
+[01:51:26] [main/INFO]: Loaded 1399 advancements
+[01:51:26] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 907.1 μs
+[01:51:26] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:51:26] [Server thread/INFO]: Loading properties
+[01:51:26] [Server thread/INFO]: Default game type: SURVIVAL
+[01:51:26] [Server thread/INFO]: Generating keypair
+[01:51:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:51:26] [Server thread/INFO]: Using epoll channel type
+[01:51:26] [Server thread/INFO]: Preparing level "world"
+[01:51:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:51:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:28] [Server thread/INFO]: Time elapsed: 344 ms
+[01:51:28] [Server thread/INFO]: Done (1.878s)! For help, type "help"
+[01:51:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[01:51:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[01:51:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[01:51:28] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[01:51:46] [User Authenticator #1/INFO]: UUID of player aspen_syrup is d8c9bd9e-d197-4787-aa0e-77121b6afd0f
+[01:51:47] [Server thread/INFO]: aspen_syrup[/192.168.25.199:54291] logged in with entity id 96 at (-35.5, 72.0, -86.5)
+[01:51:47] [Server thread/INFO]: aspen_syrup joined the game
+[01:51:47] [Server thread/INFO]: [showmeyourskin] Client of aspen_syrup accepted server config.
+[01:52:24] [Server thread/INFO]: aspen_syrup lost connection: Disconnected
+[01:52:24] [Server thread/INFO]: aspen_syrup left the game
+[01:52:32] [User Authenticator #2/INFO]: UUID of player aspen_syrup is d8c9bd9e-d197-4787-aa0e-77121b6afd0f
+[01:52:32] [Server thread/INFO]: aspen_syrup[/192.168.25.199:54334] logged in with entity id 303 at (-32.18269642115119, 72.0, -90.729858355206)
+[01:52:32] [Server thread/INFO]: aspen_syrup joined the game
+[01:52:32] [Server thread/INFO]: [showmeyourskin] Client of aspen_syrup accepted server config.
+[01:52:40] [Server thread/INFO]: aspen_syrup lost connection: Disconnected
+[01:52:40] [Server thread/INFO]: aspen_syrup left the game
